@@ -1,4 +1,4 @@
-<p align="center"><a href="https://betterexam.herokuapp.com" target="_blank" rel="noopener noreferrer"><img width="150" src="/app/static/asset/favicon/android-chrome-192x192.png" alt="Better Exam Logo"></a></p>
+<p align="center"><a href="https://betterexam.herokuapp.com" target="_blank" rel="noopener noreferrer"><img width="150" src="https://github.com/UdAyAn123/Better-Exam/blob/main/Better-Exam/app/static/asset/favicon/android-chrome-192x192.png" alt="Better Exam Logo"></a></p>
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="python"></a>
